@@ -24,7 +24,7 @@ Merhaba ben uruz.
 # Öne çıkan Projeler
 
 # Social
-- facebook: https://www.facebook.com/uruzstudiosx
+- facebook: https://www.facebook.com/uruzstudiox
 
 # İletişim
 - e-posta: uruzstudiox@gmail.com
