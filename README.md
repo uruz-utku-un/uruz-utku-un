@@ -5,7 +5,7 @@
 # 🍁 Github Profilime Hoşgeldin! 🐺
 Merhaba ben uruz. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı seviyorum.
 
-## Hakkımda
+## 🗂️ Hakkımda
 - 📑 Şu anda üzerinde çalışıyorum:
 -
 -
