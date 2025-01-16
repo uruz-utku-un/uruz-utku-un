@@ -2,8 +2,7 @@
 
 </header>
 
-# 🍁 ...
-
+# 🍁 Github Profilime Hoşgeldin!
 Merhaba ben uruz.
 
 ## Hakkımda
@@ -13,13 +12,16 @@ Merhaba ben uruz.
 -
 -
 
-# Becerilerim
+## Becerilerim
 
-## Programming Languages
+### Programming Languages
 - Python
 
-##
-##
+###
+###
+
+
+
 
 # Öne çıkan Projeler
 
