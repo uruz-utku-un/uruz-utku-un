@@ -22,13 +22,13 @@ Merhaba ben uruz. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı
 
 
 
-# 📂 Öne çıkan Projeler
+## 📂 Öne çıkan Projeler
 - ..
 
-# ☕ Social
+## ☕ Sosyal
 - facebook: https://www.facebook.com/uruzstudiox
 
-# 📬 İletişim
+## 📬 İletişim
 - ✉️: uruzstudiox@gmail.com
 - 🤝: linkedln.com
   
