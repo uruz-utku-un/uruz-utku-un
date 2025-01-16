@@ -6,7 +6,7 @@
 Merhaba ben Uruz. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı seviyorum.
 
 ## 🗂️ Hakkımda
-- 📑 Şu anda üzerinde çalışıyorum:
+- 📑 Şu anda üzerinde çalışıyorum: ?
 -
 -
 -
