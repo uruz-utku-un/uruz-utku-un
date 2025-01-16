@@ -2,7 +2,7 @@
 
 </header>
 
-# 🍁 Github Profilime Hoşgeldin! 🐺
+# 🐺 Github Profilime Hoşgeldin! 🍁
 Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı seviyorum.
 
 ## 🗂️ Hakkımda
