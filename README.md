@@ -3,10 +3,10 @@
 </header>
 
 # 🍁 Github Profilime Hoşgeldin! 🐺
-Merhaba ben uruz.
+Merhaba ben uruz. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı seviyorum.
 
 ## Hakkımda
--
+- 📑 Şu anda üzerinde çalışıyorum:
 -
 -
 -
