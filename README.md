@@ -29,11 +29,13 @@ Merhaba ben Uruz. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı
 ## ☕ Sosyal
 - facebook: https://www.facebook.com/uruzstudiox
 
+## 📬 İletişim
+  - ✉️ Email: [uruzstudiox@gmail.com](mailto:uruzstudiox@gmail.com)
+  - 🤝: linkedln.com
+
   
 <footer>
-  ## 📬 İletişim
-  - [E-posta](uruzstudiox@gmail.com)
-  - 🤝: linkedln.com
+  
 </footer>
 
 
