@@ -15,21 +15,20 @@ Merhaba ben uruz.
 ## Becerilerim
 
 ### Programming Languages
-- Python
+- Python   : 🏅
 
 ###
 ###
 
 
 
+# 📂 Öne çıkan Projeler
 
-# Öne çıkan Projeler
-
-# Social
+# ☕ Social
 - facebook: https://www.facebook.com/uruzstudiox
 
-# İletişim
-- e-posta: uruzstudiox@gmail.com
+# 📬 İletişim
+- ✉️: uruzstudiox@gmail.com
   
 <footer>
 </footer>
