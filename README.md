@@ -30,7 +30,7 @@ Merhaba ben Uruz. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı
 - facebook: https://www.facebook.com/uruzstudiox
 
 ## 📬 İletişim
-- ✉️: uruzstudiox@gmail.com
+- [E-posta](uruzstudiox@gmail.com)
 - 🤝: linkedln.com
   
 <footer>
