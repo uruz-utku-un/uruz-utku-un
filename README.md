@@ -9,7 +9,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 - 📑 Şu anda üzerinde çalışıyorum: ?
 - 🌱 Öğrenme:
   - . 
-- 🐉
+- 
 -
 -
 
@@ -36,7 +36,7 @@ It aims to serve as a foundation for more comprehensive projects.
 - 🌐 Facebook: [Uruz StudioX]()
 - 🤝 LinkedIn: [LinkedIn Profile]()
 
-## 📬 İletişim
+## 🕊️ İletişim
   - ✉️ Email: [uruzstudiox@gmail.com](mailto:uruzstudiox@gmail.com)
 
   
