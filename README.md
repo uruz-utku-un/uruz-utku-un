@@ -2,7 +2,7 @@
 
 </header>
 
-# 🍁 Github Profilime Hoşgeldin!
+# 🍁 Github Profilime Hoşgeldin 🐺!
 Merhaba ben uruz.
 
 ## Hakkımda
