@@ -3,7 +3,7 @@
 </header>
 
 # 🍁 Github Profilime Hoşgeldin! 🐺
-Merhaba ben Uruz. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı seviyorum.
+Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı seviyorum.
 
 ## 🗂️ Hakkımda
 - 📑 Şu anda üzerinde çalışıyorum: ?
@@ -27,11 +27,11 @@ Merhaba ben Uruz. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı
 - ..
 
 ## ☕ Sosyal
-- facebook: https://www.facebook.com/uruzstudiox
+- 🌐 Facebook: [Uruz StudioX]()
+- 🤝 LinkedIn: [LinkedIn Profile]()
 
 ## 📬 İletişim
   - ✉️ Email: [uruzstudiox@gmail.com](mailto:uruzstudiox@gmail.com)
-  - 🤝: linkedln.com
 
   
 <footer>
