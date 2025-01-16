@@ -9,7 +9,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 - 📑 Şu anda üzerinde çalışıyorum: ?
 - 🌱 Öğrenme:
   - . 
--
+- 🐉
 -
 -
 
