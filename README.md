@@ -7,7 +7,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ## 🗂️ Hakkımda
 - 📑 Şu anda üzerinde çalışıyorum: ?
-- Öğrenme:
+- 🌱 Öğrenme:
   - . 
 -
 -
@@ -15,7 +15,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ## Becerilerim
 
-### Programming Languages
+### Program Dilleri ve Öncelik Sıram
 - Python 🥇
 
 ###
@@ -24,7 +24,10 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 
 ## 📂 Öne çıkan Projeler
-- ..
+
+### [Image Resizer]()
+**Tanım:**
+**Teknolojiler:**
 
 ## ☕ Sosyal
 - 🌐 Facebook: [Uruz StudioX]()
