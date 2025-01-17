@@ -5,7 +5,8 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ## 🎭 Hakkımda
 - 📑 Şu anda üzerinde çalışıyorum:
-  - Yeni projelere ilham arıyorum.
+  - Şu anda kendimi geliştirmeye odaklanıyorum ve yeni projelerle
+    öğrenme sürecimi destekliyorum.
   
 - 🌱 Öğreniyorum:
   - Tkinter ile kullanıcı arayüzü (UI) geliştirme.
@@ -43,7 +44,11 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 **Tanım:**
 Bu proje, görüntü dosyalarının yapısını anlamak ve işlemek için bir 
 açık kaynak örneği olarak oluşturulmuştur. Daha büyük ve kapsamlı 
-projelere temel oluşturmayı hedefler.  
+projelere temel oluşturmayı hedefler.
+
+**Özellikler**
+- BMP uzantılı görüntü dosyalarının boyutlarını değiştirme.
+- BMP uzantılı görüntü dosyalarına ızgaralar ekleme.
 
 **Araçlar ve Teknolojiler:**
 - Pythonun standart kütüphaneleri
@@ -52,8 +57,8 @@ projelere temel oluşturmayı hedefler.
 ---
 
 ## ☕ Sosyal
-- 🌐 **Facebook:** [Kısa bir bakım arasında...]()
-- 🤝 **LinkedIn:** [Kısa bir bakım arasında...]()
+- 🌐 **Facebook:** Şu an aktif değilim.
+- 🤝 **LinkedIn:** Yakında paylaşacağım.
 
 ---
 
