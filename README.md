@@ -29,7 +29,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ### Program Dilleri
 - 🥇 Python
-- 🥈 GDScript
+- 🥈 GDScript (Kendimi geliştiriyorum)
 - 🥉 HTML/CSS
 
 ###  Araçlar ve Teknolojiler
@@ -42,17 +42,24 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ### [Image Resizer](https://github.com/uruzstudiox/ImageResizer)
 **Tanım:**
-Bu proje, görüntü dosyalarının yapısını anlamak ve işlemek için bir 
+Bu proje, BMP formatındaki görüntü dosyalarının yapısını anlamak ve işlemek için bir 
 açık kaynak örneği olarak oluşturulmuştur. Daha büyük ve kapsamlı 
 projelere temel oluşturmayı hedefler.
 
-**Özellikler**
+**Özellikler:**
 - BMP uzantılı görüntü dosyalarının boyutlarını değiştirme.
-- BMP uzantılı görüntü dosyalarına ızgaralar ekleme.
+- BMP uzantılı görüntü dosyalarına ızgara ekleme.
+- Python'un standart kütüphaneleri ile ham veri analizi.
+- Binary sistemi baz alarak veri işleme.
 
 **Araçlar ve Teknolojiler:**
-- Pythonun standart kütüphaneleri
+- Python'un standart kütüphaneleri
 - Binary veri işleme
+
+**İleriye Dönük Hedefler:**
+- Birim testler ekleme.
+- Kullanıcı ayayüzü geliştirme.
+- Farklı dosya formatları (ör. JPEG, PNG) için destek sağlama.
 
 ---
 
