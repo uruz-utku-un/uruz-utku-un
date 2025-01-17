@@ -28,8 +28,8 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 ## 🛠️ Becerilerim
 
 ### Program Dilleri
-- 🥇 Python (ana dilim)
-- 🥈 GDScript (kendimi geliştiriyorum)
+- 🥇 Python
+- 🥈 GDScript (Kendimi geliştiriyorum)
 - 🥉 HTML/CSS
 
 ###  Araçlar ve Teknolojiler
