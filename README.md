@@ -15,7 +15,8 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ### Program Dilleri
 - 🥇 Python
-- 🥈 HTML/CSS
+- 🥈 Godot
+- 🥉 HTML/CSS
 
 ###  Araçlar ve Teknolojiler
 
