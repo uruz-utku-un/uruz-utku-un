@@ -6,19 +6,21 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 ## 🎭 Hakkımda
 - 📑 Şu anda üzerinde çalışıyorum:
   - Yeni projelere ilham arıyorum.
+  
 - 🌱 Öğreniyorum:
-  - Tkinter ile UI oluşturmak.
-  - Unitest ile kapsamlı birim testler oluşturmak.
-  - Görsel dosyalarının yapısı ve işlenmesi.
+  - Tkinter ile kullanıcı arayüzü (UI) geliştirme.
+  - Unitest ile kapsamlı birim testler yazma.
+  - Görsel dosyalarının yapısını ve işlenmesini anlamak.
+
 - 🎯 Hedeflerim:
   - Kendi betik derleyicimi oluşturmak.
-  - Bir açık kaynak projesi oluşturmak.
-  - Linux tabanlı kendi işletim sitemimi oluşturmak.
+  - Açık kaynak bir proje başlatmak.
+  - Linux tabanlı bir işletim sitemi geliştirmek.
 
 - 🔎 İlgi duyuyorum:
   - Linux İşletim Sistemleri
-  - Yapay Zeka Sistemleri
-  - Oyun geliştirme
+  - Yapay Zeka ve Makine Öğrenimi
+  - Oyun Geliştirme ve Oyun Motorları
 
 ---
 
@@ -47,18 +49,15 @@ It aims to serve as a foundation for more comprehensive projects.
 ---
 
 ## ☕ Sosyal
-- 🌐 Facebook: [Uruz StudioX](https://www.facebook.com/uruzstudiox)
-- 🤝 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/uruzstudiox)
+- 🌐 **Facebook:** [Kısa bir bakım arasında...]()
+- 🤝 **LinkedIn:** [Kısa bir bakım arasında...]()
 
 ---
 
 ## 🕊️ İletişim
-  - ✉️ Email: [uruzstudiox@gmail.com](mailto:uruzstudiox@gmail.com)
+  - ✉️ **Email:** [uruzstudiox@gmail.com](mailto:uruzstudiox@gmail.com)
 
 ---
 
 <footer>
 </footer>
-
-
-
