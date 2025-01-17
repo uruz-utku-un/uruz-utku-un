@@ -32,6 +32,8 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 - 🥉 HTML/CSS
 
 ###  Araçlar ve Teknolojiler
+- Tkinter
+- Git & Github
 
 ---
 
@@ -43,8 +45,9 @@ Bu proje, görüntü dosyalarının yapısını anlamak ve işlemek için bir
 açık kaynak örneği olarak oluşturulmuştur. Daha büyük ve kapsamlı 
 projelere temel oluşturmayı hedefler.  
 
-**Teknolojiler:**
-- Python
+**Araçlar ve Teknolojiler:**
+- Pythonun standart kütüphaneleri
+- Binary veri işleme
 
 ---
 
