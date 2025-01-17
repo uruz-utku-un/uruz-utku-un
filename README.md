@@ -13,7 +13,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 -
 -
 
-## Becerilerim
+## ⛓️ Becerilerim
 
 ### Program Dilleri ve Öncelik Sıram
 - Python 🥇
