@@ -57,9 +57,9 @@ projelere temel oluşturmayı hedefler.
 - Binary veri işleme
 
 **İleriye Dönük Hedefler:**
-- Birim testler ekleme.
-- Kullanıcı ayayüzü geliştirme.
-- Farklı dosya formatları (ör. JPEG, PNG) için destek sağlama.
+- Birim testler eklemek.
+- Kullanıcı arayüzü geliştirmek.
+- Farklı dosya formatları (ör. JPEG, PNG) için destek sağlamak.
 
 ---
 
