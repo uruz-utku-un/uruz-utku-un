@@ -39,9 +39,9 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ### [Image Resizer](https://github.com/uruzstudiox/ImageResizer)
 **Tanım:**
-This program is an open-source example project created to
-understand the structure of images and how they are read and processed.
-It aims to serve as a foundation for more comprehensive projects.
+Bu proje, görüntü dosyalarının yapısını anlamak ve işlemek için bir 
+açık kaynak örneği olarak oluşturulmuştur. Daha büyük ve kapsamlı 
+projelere temel oluşturmayı hedefler.  
 
 **Teknolojiler:**
 - Python
