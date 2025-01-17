@@ -14,7 +14,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
   - linux tabanlı kendi işletim sitemimi oluşturmak.
 - 🦭 İlgi duyuyorum:
   - Linux İşletim Sistemleri
-  - Yapay Zeka
+  - Yapay Zeka Sistemleri
   - Oyun geliştirme
 
 ---
