@@ -6,6 +6,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 ## 🎭 Hakkımda
 - 📑 Şu anda üzerinde çalışıyorum: Yeni projelere ilham arıyorum.
 - 🌱 Öğreniyorum:
+  - Tkinter ile UI oluşturmak.
   - Görsel dosyalarının yapısı ve işlenmesi.
 - 🎯 Hedeflerim:
   - Bir açık kaynak projesi oluşturmak.
