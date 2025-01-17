@@ -1,13 +1,15 @@
 # 🐺 Github Profilime Hoşgeldin! 🍁
 Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı seviyorum.
 
+---
+
 ## 📑 Hakkımda
 - 📝 Şu anda üzerinde çalışıyorum: Yeni projelere ilham arıyorum.
 - 🌱 Öğrenme:
   - . 
 - 🦭
--
--
+
+---
 
 ## 🛠️ Becerilerim
 
@@ -15,9 +17,8 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 - 🥇 Python
 
 ###  Araçlar ve Teknolojiler
-###
 
-
+---
 
 ## 🗂️ Öne çıkan Projeler
 
@@ -30,16 +31,20 @@ It aims to serve as a foundation for more comprehensive projects.
 **Teknolojiler:**
 - Python
 
+---
+
 ## ☕ Sosyal
 - 🌐 Facebook: [Uruz StudioX]()
 - 🤝 LinkedIn: [LinkedIn Profile]()
 
+---
+
 ## 🕊️ İletişim
   - ✉️ Email: [uruzstudiox@gmail.com](mailto:uruzstudiox@gmail.com)
 
-  
+---
+
 <footer>
-  
 </footer>
 
 
