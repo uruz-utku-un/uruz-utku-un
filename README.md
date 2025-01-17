@@ -3,11 +3,17 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ---
 
-## 📑 Hakkımda
-- 📝 Şu anda üzerinde çalışıyorum: Yeni projelere ilham arıyorum.
-- 🌱 Öğrenme:
-  - . 
-- 🦭
+## 🎭 Hakkımda
+- 📑 Şu anda üzerinde çalışıyorum: Yeni projelere ilham arıyorum.
+- 🌱 Öğreniyorum:
+  - Görsel dosyalarının yapısı ve işlenmesi.
+- 🎯 Hedeflerim:
+  - Bir açık kaynak projesi oluşturmak.
+  - linux tabanlı kendi işletim sitemimi oluşturmak.
+- 🦭 İlgi duyuyorum:
+  - Linux İşletim Sistemleri
+  - Yapay Zeka
+  - Oyun geliştirme
 
 ---
 
