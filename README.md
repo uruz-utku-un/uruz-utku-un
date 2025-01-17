@@ -8,10 +8,13 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
   - Yeni projelere ilham arıyorum.
 - 🌱 Öğreniyorum:
   - Tkinter ile UI oluşturmak.
+  - Unitest ile kapsamlı birim testler oluşturmak.
   - Görsel dosyalarının yapısı ve işlenmesi.
 - 🎯 Hedeflerim:
+  - Kendi betik derleyicimi oluşturmak.
   - Bir açık kaynak projesi oluşturmak.
-  - linux tabanlı kendi işletim sitemimi oluşturmak.
+  - Linux tabanlı kendi işletim sitemimi oluşturmak.
+
 - 🔎 İlgi duyuyorum:
   - Linux İşletim Sistemleri
   - Yapay Zeka Sistemleri
