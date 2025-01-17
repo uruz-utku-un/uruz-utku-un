@@ -12,7 +12,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 - 🎯 Hedeflerim:
   - Bir açık kaynak projesi oluşturmak.
   - linux tabanlı kendi işletim sitemimi oluşturmak.
-- 🦭 İlgi duyuyorum:
+- 🔋 İlgi duyuyorum:
   - Linux İşletim Sistemleri
   - Yapay Zeka Sistemleri
   - Oyun geliştirme
