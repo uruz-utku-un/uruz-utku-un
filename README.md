@@ -5,8 +5,8 @@
 # 🐺 Github Profilime Hoşgeldin! 🍁
 Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı seviyorum.
 
-## 🗂️ Hakkımda
-- 📑 Şu anda üzerinde çalışıyorum: ?
+## 📑 Hakkımda
+- 📝 Şu anda üzerinde çalışıyorum: ?
 - 🌱 Öğrenme:
   - . 
 - 🦭
@@ -23,7 +23,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 
 
-## 📂 Öne çıkan Projeler
+## 🗂️ Öne çıkan Projeler
 
 ### [Image Resizer](https://github.com/uruzstudiox/ImageResizer)
 **Tanım:**
