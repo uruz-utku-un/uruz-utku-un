@@ -64,8 +64,8 @@ projelere temel oluşturmayı hedefler.
 ---
 
 ## ☕ Sosyal
-- 🌐 **Facebook:** Şu an aktif değilim.
-- 🤝 **LinkedIn:** Yakında paylaşacağım.
+- 🌐 **Facebook:** [Şu an aktif değilim.]()
+- 🤝 **LinkedIn:** [Yakında paylaşacağım.]()
 
 ---
 
