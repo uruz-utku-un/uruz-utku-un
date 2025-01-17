@@ -14,7 +14,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 ## 🛠️ Becerilerim
 
 ### Program Dilleri
-- 🥇 Python
+- 🥇 Python (Ana Dilim)
 - 🥈 GDScript
 - 🥉 HTML/CSS
 
