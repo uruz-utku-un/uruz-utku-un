@@ -1,12 +1,8 @@
-<header>
-
-</header>
-
 # 🐺 Github Profilime Hoşgeldin! 🍁
 Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturmayı seviyorum.
 
 ## 📑 Hakkımda
-- 📝 Şu anda üzerinde çalışıyorum: ?
+- 📝 Şu anda üzerinde çalışıyorum: Yeni projelere ilham arıyorum.
 - 🌱 Öğrenme:
   - . 
 - 🦭
@@ -15,10 +11,10 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ## 🛠️ Becerilerim
 
-### Program Dilleri ve Öncelik Sıram
-- Python 🥇
+### Program Dilleri
+- 🥇 Python
 
-### 
+###  Araçlar ve Teknolojiler
 ###
 
 
@@ -32,7 +28,7 @@ understand the structure of images and how they are read and processed.
 It aims to serve as a foundation for more comprehensive projects.
 \
 **Teknolojiler:**
-...
+- Python
 
 ## ☕ Sosyal
 - 🌐 Facebook: [Uruz StudioX]()
