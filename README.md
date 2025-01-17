@@ -9,8 +9,8 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
     öğrenme sürecimi destekliyorum.
   
 - 🌱 Öğreniyorum:
-  - Tkinter ile kullanıcı arayüzü (UI) geliştirme.
-  - Unitest ile kapsamlı birim testler yazma.
+  - Tkinter ile kullanıcı arayüzü (UI) geliştirmek.
+  - Unitest ile kapsamlı birim testler yazmak.
   - Görsel dosyalarının yapısını ve işlenmesini anlamak.
 
 - 🎯 Hedeflerim:
