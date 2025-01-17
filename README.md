@@ -34,8 +34,8 @@ It aims to serve as a foundation for more comprehensive projects.
 ---
 
 ## ☕ Sosyal
-- 🌐 Facebook: [Uruz StudioX]()
-- 🤝 LinkedIn: [LinkedIn Profile]()
+- 🌐 Facebook: [Uruz StudioX](https://www.facebook.com/uruzstudiox)
+- 🤝 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/uruzstudiox)
 
 ---
 
