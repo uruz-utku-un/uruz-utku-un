@@ -5,6 +5,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ## 🎭 Hakkımda
 - 📑 Şu anda üzerinde çalışıyorum:
+  - Proje geliştirme süreçlerimi hızlandıramk için bir takım python modülleri üzerinde çalışıyorum.
   - Şu anda kendimi geliştirmeye odaklanıyorum ve yeni projelerle
     öğrenme sürecimi destekliyorum.
   
