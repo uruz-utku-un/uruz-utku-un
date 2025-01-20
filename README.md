@@ -42,12 +42,15 @@ Hello, I'm **Uruz**. I love researching, learning and creating meaningful projec
 ---
 
 ## 🗂️ Featured Projects
+- To get information about categories: [CATEGORIES](docs/eng/CATEGORIES.md)
 
 ### [Image Resizer](https://github.com/uruzstudiox/ImageResizer)
 **Description:**
 This project was created as an open-source example for understanding and
 processing the structure of BMP format image files. It aims to lay the
 foundation for larger and more comprehensive projects.
+
+**Categories:** Example Programs (EP)
 
 **Features:**
 - Resize BMP format images files.

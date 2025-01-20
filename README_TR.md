@@ -42,12 +42,15 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 ---
 
 ## 🗂️ Öne çıkan Projeler
+- Kategoriler hakkında bilgi almak için: [CATEGORIES_TR](docs/tr/CATEGORIES_TR.md)
 
 ### [Image Resizer](https://github.com/uruzstudiox/ImageResizer)
 **Tanım:**
 Bu proje, BMP formatındaki görüntü dosyalarının yapısını anlamak ve işlemek
 için bir açık kaynak örneği olarak oluşturulmuştur. Daha büyük ve kapsamlı 
 projelere temel oluşturmayı hedefler.
+
+**Kategoriler:** Example Programs (EP)
 
 **Özellikler:**
 - BMP uzantılı görüntü dosyalarının boyutlarını değiştirme.
