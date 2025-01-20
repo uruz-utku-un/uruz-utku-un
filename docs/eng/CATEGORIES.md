@@ -1,5 +1,7 @@
 # Software Project Categories
 
+[Version History Table](#version-history-table)
+
 ## By Application Type
 
 | Category                    | Abbreviation |
@@ -122,3 +124,13 @@ Software for scientific analysis and simulations.
 - Data analysis software
 
 [Return to table](#by-field)
+
+---
+
+## Version History Table
+| Version   | Date          | Contributor   | Description       |
+|-----------|---------------|---------------|-------------------|
+| V0.0.0    | 20.01.2025    | Uruz          | Raw version of the document. |
+| V0.0.1    | 20.01.2025    | Uruz          | First version of the document. |
+
+[Retun to title](#software-project-categories)

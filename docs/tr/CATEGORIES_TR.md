@@ -1,5 +1,7 @@
 # Yazılım Projesi Kategorileri
 
+[Sürüm Geçmiş Tablosu](#sürüm-geçmiş-tablosu)
+
 ## Uygulama Türüne Göre
 
 | Kategori                              | Kısaltma     |
@@ -122,3 +124,13 @@ Bilimsel analiz ve simülasyon yazılımları.
 - Veri analizi yazılımları
 
 [Tabloya dön](#alanına-göre)
+
+---
+
+## Sürüm Geçmiş Tablosu
+| Sürüm     | Tarih         | Katkıda Bulunan | Açıklama         |
+|-----------|---------------|-----------------|------------------|
+| V0.0.0    | 20.01.2025    | Uruz            | Belgenin ham versiyonu. |
+| V0.0.1    | 20.01.2025    | Uruz            | Belgenin ilk versiyonu. |
+
+[Başlığa dön](#yazılım-projesi-kategorileri)
