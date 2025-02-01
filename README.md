@@ -6,7 +6,9 @@ Hello, I'm **Uruz**. I love researching, learning and creating meaningful projec
 
 ## 🎭 About Me
 - 📑 Currently working on:
-  - I am currently working on Python modules to accelerate the project
+  <!-- - I am currently working on Python modules to accelerate the project
+  development process. -->
+  - I am currently working on my custom Godot nodes to accelerate the project
   development process.
   - I am also focusing on improving myself and supporting my learning 
   processwith new projects.
