@@ -14,9 +14,14 @@ Hello, I'm **Uruz**. I love researching, learning and creating meaningful projec
   processwith new projects.
   
 - 🌱 Learning:
-  - Developing user interfaces (UI) with Tkinter.
-  - Writing comprehensive unit tests with Unittest.
-  - Understanding the structure and processing of image files.
+  - 🥇
+    - Developing custom nodes and scripts with Godot.
+    - Creating mechanics for games.
+    - Designing systematic and modular structures for projects.
+  - 🥈
+    - Developing user interfaces (UI) with Tkinter.
+    - Writing comprehensive unit tests with Unittest.
+    - Understanding the structure and processing of image files.
   
 - 🎯 My Goals:
   - Build my own script compiler.

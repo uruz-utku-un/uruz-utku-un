@@ -14,9 +14,14 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
   sürecimi destekliyorum.
   
 - 🌱 Öğreniyorum:
-  - Tkinter ile kullanıcı arayüzü (UI) geliştirmek.
-  - Unitest ile kapsamlı birim testler yazmak.
-  - Görsel dosyalarının yapısını ve işlenmesini anlamak.
+  - 🥇
+    - Godot ile özel düğümler ve betikler geliştirmek.
+    - Oyunlar için mekanikler oluşturmak.
+    - Projelerde sistematik ve modüler yapılar tasarlamak.
+  - 🥈
+    - Tkinter ile kullanıcı arayüzü (UI) geliştirmek.
+    - Unitest ile kapsamlı birim testler yazmak.
+    - Görsel dosyalarının yapısını ve işlenmesini anlamak.
 
 - 🎯 Hedeflerim:
   - Kendi betik derleyicimi oluşturmak.
