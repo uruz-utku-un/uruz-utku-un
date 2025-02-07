@@ -43,6 +43,7 @@ Hello, I'm **Uruz**. I love researching, learning and creating meaningful projec
 - 🥉 HTML/CSS
 
 ###  Tools and Technologies
+- Godot (Devloping custom nodes and scripts)
 - Tkinter
 - Git & Github
 

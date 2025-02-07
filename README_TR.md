@@ -43,6 +43,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 - 🥉 HTML/CSS
 
 ###  Araçlar ve Teknolojiler
+- Godot (Özel düğümler ve betikler geliştirme)
 - Tkinter
 - Git & Github
 
