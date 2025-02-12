@@ -51,6 +51,7 @@ Merhaba ben **Uruz**. Araştırmayı, öğrenmeyi ve anlamlı projeler oluşturm
 
 ## 🗂️ Öne çıkan Projeler
 - Kategoriler hakkında bilgi almak için: [CATEGORIES_TR](docs/tr/CATEGORIES_TR.md)
+- Sürümleme Rehberi: [VERSIONING_TR](docs/tr/VERSIONING_TR.md) 
 
 ### [Image Resizer](https://github.com/uruzstudiox/ImageResizer)
 **Tanım:**
@@ -87,6 +88,3 @@ projelere temel oluşturmayı hedefler.
   - ✉️ **Email:** [uruzstudiox@gmail.com](mailto:uruzstudiox@gmail.com)
 
 ---
-
-<footer>
-</footer>

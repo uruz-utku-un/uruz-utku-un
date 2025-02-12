@@ -40,7 +40,9 @@ Masaüstü (veya dizüstü) bilgisayarlarda çalışan uygulamalar.
 - Muhasebe yazılımları
 - Grafik düzenleme araçları
 
-[Tabloya dön](#uygulama-türüne-göre)
+[Tabloya Dön](#uygulama-türüne-göre)
+
+---
 
 ### Web Programı (WP)
 İnternet tarayıcıları üzerinden çalışan uygulamalar.
@@ -49,7 +51,9 @@ Masaüstü (veya dizüstü) bilgisayarlarda çalışan uygulamalar.
 - e-Ticaret siteleri
 - Blog platformları
 
-[Tabloya dön](#uygulama-türüne-göre)
+[Tabloya Dön](#uygulama-türüne-göre)
+
+---
 
 ### Mobil Programlar (MP)
 Akıllı telefonlarda ve tabletlerde çalışan uygulamalar.
@@ -58,7 +62,9 @@ Akıllı telefonlarda ve tabletlerde çalışan uygulamalar.
 - Sosyal medya uygulamaları
 - Oyunlar
 
-[Tabloya dön](#uygulama-türüne-göre)
+[Tabloya Dön](#uygulama-türüne-göre)
+
+---
 
 ### Gömülü Sistemler (ES)
 Donanımla entegre çalışan yazılımlar.
@@ -67,12 +73,16 @@ Donanımla entegre çalışan yazılımlar.
 - IoT cihazları
 - Otomotiv kontrol sistemleri
 
-[Tabloya dön](#uygulama-türüne-göre)
+[Tabloya Dön](#uygulama-türüne-göre)
+
+---
 
 ### Örnek Programlar (EP)
 Belirli bir konsepti veya teknolojiyi öğrenmek için oluşturulan küçük projeler.
 
-[Tabloya dön](#amacına-göre)
+[Tabloya Dön](#amacına-göre)
+
+---
 
 ### Araç Programlar (TP)
 Geliştirme süreçlerini veya iş akışlarını desteklemek için oluşturulan araçlar.
@@ -81,22 +91,30 @@ Geliştirme süreçlerini veya iş akışlarını desteklemek için oluşturulan
 - Kod dönüştürücüler (derleyiciler)
 - Otomasyon betikleri
 
-[Tabloya dön](#amacına-göre)
+[Tabloya Dön](#amacına-göre)
+
+---
 
 ### Üretim Yazılımları (PS)
 Gerçek kullanıcılar için geliştirilmiş ve piyasaya sürülmüş yazılımlar.
 
-[Tabloya dön](#amacına-göre)
+[Tabloya Dön](#amacına-göre)
+
+---
 
 ### Kütüphaneler ve Modüller (LM)
 Başka yazılımlarda kullanılmak üzere oluşturulmuş kod koleksiyonları.
 
-[Tabloya dön](#amacına-göre)
+[Tabloya Dön](#amacına-göre)
+
+---
 
 ### Eğitim Yazılımları (EDU)
 Öğrenme ve öğretme amaçlı projeler.
 
-[Tabloya dön](#alanına-göre)
+[Tabloya Dön](#alanına-göre)
+
+---
 
 ### Eğlence Yazılımları (ENT)
 Eğlence ve medya odaklı yazılımlar.
@@ -105,7 +123,9 @@ Eğlence ve medya odaklı yazılımlar.
 - Oyunlar
 - Medya oynatıcılar
 
-[Tabloya dön](#alanına-göre)
+[Tabloya Dön](#alanına-göre)
+
+---
 
 ### İş ve Verimlilik Araçları (BPT)
 İş ve üretkenlik odaklı araçlar.
@@ -114,7 +134,9 @@ Eğlence ve medya odaklı yazılımlar.
 - ERP yazılımları
 - CRM sistemleri
 
-[Tabloya dön](#alanına-göre)
+[Tabloya Dön](#alanına-göre)
+
+---
 
 ### Bilimsel Yazılımlar (SS)
 Bilimsel analiz ve simülasyon yazılımları.
@@ -123,14 +145,15 @@ Bilimsel analiz ve simülasyon yazılımları.
 - Simülasyon araçları
 - Veri analizi yazılımları
 
-[Tabloya dön](#alanına-göre)
+[Tabloya Dön](#alanına-göre)
 
 ---
 
 ## Sürüm Geçmiş Tablosu
-| Sürüm     | Tarih         | Katkıda Bulunan | Açıklama         |
-|-----------|---------------|-----------------|------------------|
-| V0.0.0    | 20.01.2025    | Uruz            | Belgenin ham versiyonu. |
-| V0.0.1    | 20.01.2025    | Uruz            | Belgenin ilk versiyonu. |
 
-[Başlığa dön](#yazılım-projesi-kategorileri)
+| **Sürüm** | **Tarih**  | **Katkıda Bulunan** | **Açıklama** |
+|-----------|------------|---------------------|--------------|
+| 0.1.0     | 20.01.2025 | Uruz                | **(+)** İlk resmi sürüm yayımlandı. |
+| 0.0.1     | 20.01.2025 | Uruz                | İlk ham taslak oluşturuldu. |
+
+[Başa Dön](#yazılım-projesi-kategorileri)

@@ -40,7 +40,9 @@ Applications that run on desktop (or laptop) computers.
 - Accounting software
 - Graphic editing tools
 
-[Return to table](#by-application-type)
+[Return to Table](#by-application-type)
+
+---
 
 ### Web Program (WP)
 Applications that run through web browsers.
@@ -49,7 +51,9 @@ Applications that run through web browsers.
 - e-Commerce websites
 - Blog platforms
 
-[Return to table](#by-application-type)
+[Return to Table](#by-application-type)
+
+---
 
 ### Mobile Programs (MP)
 Applications that run on smartphones and tablets.
@@ -58,7 +62,9 @@ Applications that run on smartphones and tablets.
 - Social media apps
 - Games
 
-[Return to table](#by-application-type)
+[Return to Table](#by-application-type)
+
+---
 
 ### Embedded Systems (ES)
 Software integrated with hardware.
@@ -67,12 +73,16 @@ Software integrated with hardware.
 - IoT devices
 - Automotive control systems
 
-[Return to table](#by-application-type)
+[Return to Table](#by-application-type)
+
+---
 
 ### Example Programs (EP)
 Small projects created to learn a specific concept or technology.
 
-[Return to table](#by-purpose)
+[Return to Table](#by-purpose)
+
+---
 
 ### Tool Programs (TP)
 Tools created to support development processes or workflows.
@@ -81,22 +91,30 @@ Tools created to support development processes or workflows.
 - Code converters (compilers)
 - Automation scripts
 
-[Return to table](#by-purpose)
+[Return to Table](#by-purpose)
+
+---
 
 ### Production Softwares (PS)
 Software developed for real users and released to the market.
 
-[Return to table](#by-purpose)
+[Return to Table](#by-purpose)
+
+---
 
 ### Libraries & Modules (LM)
 Collections of code designed to be used in other software.
 
-[Return to table](#by-purpose)
+[Return to Table](#by-purpose)
+
+---
 
 ### Education Softwares (EDU)
 Projects aimed at learning and teaching.
 
-[Return to table](#by-field)
+[Return to Table](#by-field)
+
+---
 
 ### Entertainment Softwares (ENT)
 Software focused on entertainment and media.
@@ -105,7 +123,9 @@ Software focused on entertainment and media.
 - Games
 - Media players
 
-[Return to table](#by-field)
+[Return to Table](#by-field)
+
+---
 
 ### Business & Productivity Tools (BPT)
 Tools focused on business and productivity.
@@ -114,7 +134,9 @@ Tools focused on business and productivity.
 - ERP software
 - CRM systems
 
-[Return to table](#by-field)
+[Return to Table](#by-field)
+
+---
 
 ### Scientific Softwares (SS)
 Software for scientific analysis and simulations.
@@ -123,14 +145,23 @@ Software for scientific analysis and simulations.
 - Simulation tools
 - Data analysis software
 
-[Return to table](#by-field)
+[Return to Table](#by-field)
+
+---
+
+***Translation***
+\
+*You can find the sources used for the translation below.*
+* [Google Translate](https://translate.google.com/?hl=tr&sl=tr&tl=la&op=translate)
+* [ChatGPT](https://chatgpt.com/)
 
 ---
 
 ## Version History Table
-| Version   | Date          | Contributor   | Description       |
-|-----------|---------------|---------------|-------------------|
-| V0.0.0    | 20.01.2025    | Uruz          | Raw version of the document. |
-| V0.0.1    | 20.01.2025    | Uruz          | First version of the document. |
 
-[Retun to title](#software-project-categories)
+| **Version** | **Date**   | **Contributor** | **Description** |
+|-------------|------------|-----------------|-----------------|
+| 0.1.0       | 20.01.2025 | Uruz            | **(+)** First official release published. |
+| 0.0.1       | 20.01.2025 | Uruz            | Initial draft created. |
+
+[Retun to Top](#software-project-categories)
