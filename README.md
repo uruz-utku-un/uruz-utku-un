@@ -51,7 +51,7 @@ Hello, I'm **Uruz**. I love researching, learning and creating meaningful projec
 
 ## 🗂️ Featured Projects
 - To get information about categories: [CATEGORIES](docs/eng/CATEGORIES.md)
-- Versioning Guide: [VERSIONING](docs/eng/VERSIONING)
+- Versioning Guide: [VERSIONING](docs/eng/VERSIONING.md)
 
 ### [Image Resizer](https://github.com/uruzstudiox/ImageResizer)
 **Description:**
