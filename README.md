@@ -1,5 +1,7 @@
 # 🐺 Welcome to My GitHub Profile! 🍁
 Hello, I'm **Uruz**. I love researching, learning and creating meaningful projects.
+
+"Ömrüm kısa ve ihtimallerden ibaret. Mesele zamanı yenmek değil zamana iz bırakmak."
 - Türkçe Versiyon: [README_TR](README_TR.md)
 
 ---
