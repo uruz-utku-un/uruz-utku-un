@@ -1,7 +1,10 @@
 # 🐺 Welcome to My GitHub Profile! 🍁
 Hello, I'm **Uruz**. I love researching, learning and creating meaningful projects.
 
-"Ömrüm kısa ve ihtimallerden ibaret. Mesele zamanı yenmek değil zamana iz bırakmak."
+"Ömrüm kısa ve ihtimallerden ibaret. Mesele zamanı yenmek değil zamana iz bırakmak.
+Atalarımında benden önce dile getirdiği gibi
+'Kişi oglı kop ölgü tegmiş. Adın sanın ölgüsüz kılmak gerek.'."
+
 - Türkçe Versiyon: [README_TR](README_TR.md)
 
 ---
