@@ -1,3 +1,3 @@
 # 🐺 Welcome to My GitHub Profile! 🍁
-[...](https://uruz-utku-un.github.io/)
+[About Me](https://uruz-utku-un.github.io/)
 
