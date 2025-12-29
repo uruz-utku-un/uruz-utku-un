@@ -3,6 +3,8 @@
 
 ---
 
+### TR
+
 Bu Profil Hakkında
 
 Bu GitHub profili, erken bir geliştirme aşamasını yansıtmaktadır.
@@ -20,6 +22,8 @@ https://uruz-utku-un.github.io
 Dönüşümden sonra, bu projeleri geliştirilmiş yapı, dokümantasyon ve iyileştirme ile tekrar ele almayı planlıyorum.
 
 ---
+
+### EN
 
 About This Profile
 
