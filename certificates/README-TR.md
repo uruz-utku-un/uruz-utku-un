@@ -1,6 +1,6 @@
 # Certificates
 
-Bu klasör, aldığım sertifikaları kategorilere ayrılmış şekilde içerir.
+Bu alan, aldığım sertifikaları kategorilere ayrılmış şekilde içerir.
 
 ## Dil Yetkinlikleri
 - ...
