@@ -5,20 +5,20 @@ accordingly.
 
 ---
 
-## Language Proficiencies
+### Language Proficiencies
 - ...
 
 ---
 
-## Software and Technical Training
+### Software and Technical Training
 - ...
 
 ---
 
-## Driver's License and Official Documents
+### Driver's License and Official Documents
 - ...
 
 ---
 
-## Personal Development and Social Skills
+### Personal Development and Social Skills
 - [2026.09.09] - [BTK ACADEMY] - [Coping with Stress and Mindfulness]((./Stresle_Başa_Çıkma_ve_Bilinçli_Farkındalık_Sertifika.pdf))
