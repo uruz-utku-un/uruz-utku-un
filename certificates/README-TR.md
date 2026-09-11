@@ -13,7 +13,8 @@ Bu alan, aldığım sertifikaları kategorilere ayrılmış şekilde içerir.
 - ...
 
 ## Kişisel Gelişim ve Sosyal Beceriler
-- [2026.09.09] - [**BTK ACADEMY**] -
+- [2026.09.09] - [**BTK ACADEMY**]
+  \
   [Stresle Başa Çıkma ve Bilinçli Farkındalık](./Stresle_Başa_Çıkma_ve_Bilinçli_Farkındalık_Sertifika.pdf)
   \
   [Coping with Stress and Mindfulness](./Stresle_Başa_Çıkma_ve_Bilinçli_Farkındalık_Sertifika.pdf)
