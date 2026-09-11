@@ -1,6 +1,7 @@
 # Sertifikalar
 
-Bu bölümde, sahip olduğum sertifikalar ilgili kategorilere ayrılarak sunulmaktadır.
+Bu bölümde, sahip olduğum sertifikalar uygun şekilde sınıflandırılarak
+sunulmaktadır.
 
 ---
 
