@@ -4,5 +4,5 @@ and clean web design.
 
 ## Links
 - [Personal Website](https://uruz-utku-un.github.io/)
-- [Certificates](#)
+- [Certificates](https://github.com/uruz-utku-un/uruz-utku-un-certificates)
 - [Repositories](https://github.com/uruz-utku-un?tab=repositories)
