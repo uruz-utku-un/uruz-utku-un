@@ -1,5 +1,5 @@
 # 🐺 Welcome to My GitHub Profile! 🍁
-Hi, I’m **Uruz** - working on modular Python tools, financial modeling,
+Hi, I’m **Utku (Uruz)** - working on modular Python tools, financial modeling,
 and clean web design.
 
 ## Links
