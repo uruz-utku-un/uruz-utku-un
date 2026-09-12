@@ -1,3 +1,8 @@
 # 🐺 Welcome to My GitHub Profile! 🍁
-- [Personal Website - My personal portfolio](https://uruz-utku-un.github.io/)
-  - [certificates - my documented competencies]()
+Hi, I’m **Uruz** - working on modular Python tools, financial modeling,
+and clean web design.
+
+## Links
+- [Personal Website](https://uruz-utku-un.github.io/)
+- [Certificates](#)
+- [Repositories](https://github.com/uruz-utku-un?tab=repositories)
