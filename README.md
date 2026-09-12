@@ -1,3 +1,3 @@
 # 🐺 Welcome to My GitHub Profile! 🍁
-- [Personal Website](https://uruz-utku-un.github.io/)
-  - [certificates-my documented competencies]()
+- [Personal Website - My personal portfolio](https://uruz-utku-un.github.io/)
+  - [certificates - my documented competencies]()
