@@ -1,4 +1,6 @@
-# 🐺 Welcome to My GitHub Profile! 
+# 🐺 Welcome to My GitHub Profile!
+*Did you see it too? U+2600 in my left hand, U+1F319 in my right...*
+
 Hi, I’m **Utku Ün** - *Uruz is a symbolic name.*
 \
 I learned my greatest lessons from the mistakes I made.
