@@ -1,6 +1,11 @@
 # 🐺 Welcome to My GitHub Profile! 🍁
-Hi, I’m **Utku (Uruz)** - working on modular Python tools, financial modeling,
-and clean web design.
+Hi, I’m **Utku Ün** - *Uruz is a symbolic name.*
+\
+I learned my greatest lessons from the mistakes I made.
+\
+I haven't strayed from my path; I continue to walk it.
+
+---
 
 ## Links
 - [Personal Website](https://uruz-utku-un.github.io/)
