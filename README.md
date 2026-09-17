@@ -1,4 +1,4 @@
-# 🐺 Welcome to My GitHub Profile! 🍁
+# 🍁 Welcome to My GitHub Profile! 🐺
 Hi, I’m **Utku Ün** - *Uruz is a symbolic name.*
 \
 I learned my greatest lessons from the mistakes I made.
