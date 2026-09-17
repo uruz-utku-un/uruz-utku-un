@@ -1,5 +1,5 @@
 # 🐺 Welcome to My GitHub Profile!
-*Did you see it too? U+2600 in my left hand, U+1F319 in my right...*
+*Did you see it too? ☀️ in my left hand, 🌙 in my right...*
 
 Hi, I’m **Utku Ün** - *Uruz is a symbolic name.*
 \
