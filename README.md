@@ -15,3 +15,4 @@ I haven't strayed from my path; I continue to walk it.
 - [Repositories](https://github.com/uruz-utku-un?tab=repositories)
 - Demo Applications
 - Analysis Articles
+- Research Articles
