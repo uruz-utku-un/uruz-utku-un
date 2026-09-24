@@ -1,7 +1,7 @@
 # 🐺 Welcome to My GitHub Profile!
 *Did you see it too? ☀️ in my left hand, 🌙 in my right...*
 
-Hello, I am **Utku Ün**—*Uruz is a symbolic name.*
+Hello, I am **Utku Ün**. *Uruz is a symbolic name.*
 They call me **Wolf**; my ancestors say,
 "The wolf survives the winter but never forgets the biting frost."
 \
