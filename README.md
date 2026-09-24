@@ -4,7 +4,7 @@
 Hello, I am **Utku Ün**. *Uruz is a symbolic name.*
 \
 They call me **Wolf**; my ancestors say,
-"The wolf survives the winter but never forgets the biting frost."
+*"The wolf survives the winter but never forgets the biting frost."*
 \
 I learned my greatest lessons from the mistakes I made.
 \
