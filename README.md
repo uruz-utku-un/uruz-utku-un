@@ -1,4 +1,4 @@
-# 🐺 Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 *Did you see it too? ☀️ in my left hand, 🌙 in my right...*
 
 In short, I am **Utku Ün**. *Uruz is a symbolic name.*
