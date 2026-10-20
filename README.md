@@ -8,7 +8,7 @@ They call me **Wolf**; my ancestors say,
 \
 I learned my greatest lessons from the mistakes I made.
 \
-I have not strayed from my path; I continue to walk it.
+I have not strayed from my path; I continue to walk along the path I have charted.
 
 ---
 
