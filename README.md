@@ -1,14 +1,8 @@
 # Welcome to My GitHub Profile!
 *Did you see it too? ☀️ in my left hand, 🌙 in my right...*
 
-In short, I am **Utku Ün**. *Uruz is a symbolic name.*
-\
-They call me **Wolf**; my ancestors say,
-*"The wolf survives the winter but never forgets the biting frost."*
-\
-I learned my greatest lessons from the mistakes I made.
-\
-I have not strayed from my path; I continue to walk along the path I have charted.
+In short, I am **Utku Ün**.
+This is the wolf's path...
 
 ---
 
