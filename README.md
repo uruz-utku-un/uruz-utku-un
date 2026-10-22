@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Uruz - Utku Ün (Kurt)
 *Did you see it too? ☀️ in my left hand, 🌙 in my right...*
 
 In short, I am **Utku Ün**.
