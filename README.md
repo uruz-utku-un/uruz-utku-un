@@ -11,4 +11,3 @@ In short, I am **Utku Ün**.
 ---
 
 [Personal Website](https://uruz-utku-un.github.io/)
-
