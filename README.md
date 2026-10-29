@@ -1,8 +1,12 @@
 # Uruz - Utku Ün (Kurt)
 
 In short, I am **Utku Ün**.
+
+***I am Kurt.***
 \
-**This is the wolf's path...**
+***This is Kurt's path.***
+\
+***This is my path.***
 
 *Did you see it too?*
 \
