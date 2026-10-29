@@ -1,4 +1,4 @@
-# Uruz · Utku Ün · Kurt
+# Uruz - Utku Ün · Kurt
 
 In short, I am **Utku Ün**.
 
