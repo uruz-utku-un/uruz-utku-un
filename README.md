@@ -1,4 +1,4 @@
-# Uruz -Utku Ün- Kurt
+Utku Ün — The Kurt's Path —
 
 In short, I am **Utku Ün**.
 
