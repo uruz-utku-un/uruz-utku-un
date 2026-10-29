@@ -1,10 +1,10 @@
 # Utku Ün — The Kurt's Path —
 
-In short, I am **Utku Ün**.
+**In short,** I am **Utku Ün**.
 
 ***I am Kurt.***
 \
-***This is Kurt's path.***
+*This is Kurt's path.*
 \
 ***This is my path.***
 
